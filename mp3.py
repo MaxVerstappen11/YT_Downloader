@@ -1,7 +1,7 @@
 import yt_dlp
 import os
 
-SAVE_FOLDER = "C:/Users/geren/Documents/YouTube_downloader/Downloads"
+SAVE_FOLDER = "C:/Users/geren/Documents/YT_Downloader/Downloads"
 os.makedirs(SAVE_FOLDER, exist_ok=True)
 
 print("Paste YouTube video or playlist URLs (empty line to start download):")
